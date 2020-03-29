@@ -22,6 +22,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                        configuration.server = "https://parstagram-benny.herokuapp.com/parse"
                    })
                )
+        
         return true
     }
 
